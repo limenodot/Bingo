@@ -48,22 +48,22 @@ public class Main extends Application {
     }
 
     public HashMap<Integer, String> fillMap(HashMap<Integer, String> bingoMap) {
-        bingoMap.put(1, "Принести на\n пару кофе");
-        bingoMap.put(2, "Поднять руку и\n отказаться\n выходить к доске");
-        bingoMap.put(3, "Покачаться на\n стуле");
-        bingoMap.put(4, "Опоздать на\n пару");
-        bingoMap.put(5, "Несмешно\n пошутить");
-        bingoMap.put(6, "Смешно пошутить");
-        bingoMap.put(7, "Задать тупой\n вопрос препу");
-        bingoMap.put(8, "Позалипать в\n телефон");
-        bingoMap.put(9, "Выйти к доске");
-        bingoMap.put(10, "Доебать Данилу\n Хайдукова");
-        bingoMap.put(11, "Задать тупой\n вопрос соседу");
-        bingoMap.put(12, "Поспорить с\n одногруппником");
-        bingoMap.put(13, "Выйти из кабинета\n во время пары");
-        bingoMap.put(14, "Ответить на\n вопрос, заданный\n препу");
-        bingoMap.put(15, "Поспорить с\n препом");
-        bingoMap.put(16, "Сказать\n очевидную вещь");
+        bingoMap.put(1, "");
+        bingoMap.put(2, "");
+        bingoMap.put(3, "");
+        bingoMap.put(4, "");
+        bingoMap.put(5, "");
+        bingoMap.put(6, "");
+        bingoMap.put(7, "");
+        bingoMap.put(8, "");
+        bingoMap.put(9, "");
+        bingoMap.put(10, "");
+        bingoMap.put(11, "");
+        bingoMap.put(12, "");
+        bingoMap.put(13, "");
+        bingoMap.put(14, "");
+        bingoMap.put(15, "");
+        bingoMap.put(16, "");
         return bingoMap;
     }
 
